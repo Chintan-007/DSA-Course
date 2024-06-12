@@ -1,0 +1,38 @@
+Welcome to my comprehensive tutorial on Bubble Sort! In this video, we'll break down everything you need to know about one of the simplest yet fundamental sorting algorithms in computer science. Whether you're a beginner or looking to refresh your knowledge, this video will guide you through the working principle, algorithm, and coding implementations in both C and Java.
+
+What you'll learn:
+
+Introduction to Bubble Sort: Understand what Bubble Sort is and where it's used.
+Working Principle: Discover how Bubble Sort repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+Algorithm Explanation: Follow a step-by-step explanation of the Bubble Sort algorithm.
+Example Walkthrough: Visualize the sorting process with a detailed example.
+Code Implementation in C: Learn how to implement Bubble Sort in the C programming language.
+Code Implementation in Java: See how to write the Bubble Sort algorithm in Java.
+Performance Analysis: Understand the time complexity (O(n^2)) and space complexity of Bubble Sort, and when it is an appropriate choice.
+Common Use Cases: Explore practical scenarios where Bubble Sort can be applied effectively.
+Conclusion: Summarize the key points and provide tips for optimizing your sorting strategy.
+Why watch this video?
+
+Detailed explanations suitable for beginners and intermediate programmers.
+Side-by-side code comparisons in C and Java.
+Visual aids to enhance understanding of the sorting process.
+Practical examples to solidify your learning.
+
+Time Stamps:
+00:00 	What are sorting algorithms
+01:18	The intuition behind Bubble Sort
+03:45	Visualization of Bubble sort
+16:50	Step-by-step breakdown of the algorithm
+25:30	Time complexity and Space complexity
+26:53	Implementation in C 
+34:07	Implementation in Java
+
+
+
+Source Code : https://github.com/Chintan-007/DSA-Course/tree/8cb845c4f2354dd5b7e8f00c17f2e968fc348139/Bubble%20Sort
+
+
+If you found this video helpful, please like, share, and subscribe for more programming tutorials. Don’t forget to hit the bell icon to stay updated with our latest content!
+
+Hashtags:
+#BubbleSort #SortingAlgorithms #Programming #CLanguage #Java #CodingTutorial #ComputerScience #Algorithms
